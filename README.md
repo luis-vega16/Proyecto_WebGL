@@ -4,5 +4,6 @@ Para esta escena, se realizara un globo terraqueo.Este consistiria en una esfera
 Ejemplo de la escena 
 
 
-![image](https://user-images.githubusercontent.com/66851592/135276218-99e9dbdb-668d-405e-90bf-999b877885c9.png)
+![image](https://user-images.githubusercontent.com/66851592/135276421-2e73c074-0b12-4ad1-abfc-83ac64f0d690.png)
+
 
